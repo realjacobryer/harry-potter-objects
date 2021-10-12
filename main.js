@@ -6,7 +6,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/f/fb/PS_poster.jpg/revision/latest/scale-to-width-down/675?cb=20180318153750",
-    imdb: 7.6
+    imdb: 7.6,
 }, {
     name: "Harry Potter and the Chamber of Secrets",
     year: 2002,
@@ -15,7 +15,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/c/c5/Harry_Potter_and_the_Chamber_of_Secrets_UK_Poster.jpg/revision/latest/scale-to-width-down/681?cb=20150209181936",
-    imdb: 7.4
+    imdb: 7.4,
 }, {
     name: "Harry Potter and the Prisoner of Azkaban",
     year: 2004,
@@ -24,7 +24,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman, Chris Columbus and Mark Radcliffe",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/a/a8/Harry_Potter_and_the_Prisoner_of_Azkaban_2.jpg/revision/latest?cb=20130803163319",
-    imdb: 7.9
+    imdb: 7.9,
 }, {
     name: "Harry Potter and the Goblet of Fire",
     year: 2005,
@@ -33,7 +33,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/2/2c/Goblet_of_Fire_Film_Poster.jpg/revision/latest/scale-to-width-down/666?cb=20140817011104",
-    imdb: 7.7
+    imdb: 7.7,
 }, {
     name: "Harry Potter and the Order of the Phoenix",
     year: 2007,
@@ -42,7 +42,7 @@ const hp_films = [{
     screenwriter: "Michael Goldenberg",
     producers: "David Heyman and David Barron",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg/revision/latest/scale-to-width-down/666?cb=20161002074140",
-    imdb: 7.5
+    imdb: 7.5,
 }, {
     name: "Harry Potter and the Half-Blood Prince",
     year: 2009,
@@ -51,7 +51,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman and David Barron",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/4/45/Harry_and_Dumbledore_HBPF_promo.jpg/revision/latest/scale-to-width-down/673?cb=20141215114252",
-    imdb: 7.6
+    imdb: 7.6,
 }, {
     name: "Harry Potter and the Deathly Hallows – Part 1",
     year: 2010,
@@ -60,7 +60,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman, David Barron and J. K. Rowling",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/6/6b/DH1_poster_Trio_London_City_Hall.jpg/revision/latest/scale-to-width-down/666?cb=20151102033339",
-    imdb: 7.7
+    imdb: 7.7,
 }, {
     name: "Harry Potter and the Deathly Hallows – Part 2",
     year: 2011,
@@ -69,7 +69,7 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman, David Barron and J. K. Rowling",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/9/95/Harry_Potter_and_the_Deathly_Hallows_Part_2_promotional_poster.jpg/revision/latest/scale-to-width-down/667?cb=20130803164345",
-    imdb: 8.1
+    imdb: 8.1,
 }, {
     name: "Fantastic Beasts and Where to Find Them",
     year: 2016,
@@ -78,7 +78,7 @@ const hp_films = [{
     screenwriter: "J.K Rowling",
     producers: "David Heyman, J. K. Rowling, Steve Kloves, and Lionel Wigram",
     poster: "https://upload.wikimedia.org/wikipedia/en/5/5e/Fantastic_Beasts_and_Where_to_Find_Them_poster.png",
-    imdb: 7.3
+    imdb: 7.3,
 }, {
     name: "Fantastic Beasts: The Crimes of Grindelwald",
     year: 2018,
@@ -87,7 +87,7 @@ const hp_films = [{
     screenwriter: "J.K. Rowling",
     producers: "David Heyman, J. K. Rowling, Steve Kloves, and Lionel Wigram",
     poster: "https://upload.wikimedia.org/wikipedia/en/3/3c/Fantastic_Beasts_-_The_Crimes_of_Grindelwald_Poster.png",
-    imdb: 6.5
+    imdb: 6.5,
 }, {
     name: "Fantastic Beasts: The Secrets of Dumbledore",
     year: 2022,
@@ -96,7 +96,7 @@ const hp_films = [{
     screenwriter: "J.K. Rowling and Steve Kolves",
     producers: "David Heyman, J. K. Rowling, Steve Kloves, Lionel Wigram, and Tim Lewis",
     poster: "https://upload.wikimedia.org/wikipedia/en/a/ab/Fantastic_Beasts_%E2%80%94_The_Secrets_of_Dumbledore_official_logo.jpg",
-    imdb: "n/a"
+    imdb: "n/a",
 }
 
 ];
